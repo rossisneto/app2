@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rossisneto/app1.git"
+    "url": "git+https://github.com/rossisneto/app.git"
   },
   "keywords": [
     "app"
@@ -16,7 +16,10 @@
   "author": "Rossi Silverio Neto",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rossisneto/app1/issues"
+    "url": "https://github.com/rossisneto/app2/issues"
   },
-  "homepage": "https://github.com/rossisneto/app1#readme"
+  "homepage": "https://github.com/rossisneto/app2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
