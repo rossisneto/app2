@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/rossisneto/app2#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.22.0"
   }
 }
